@@ -1,0 +1,4 @@
+original data
+23 43 45 22 12 
+ sorted data
+12 22 23 43 45 
